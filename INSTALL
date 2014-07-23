@@ -1,0 +1,9 @@
+Building HeapCoin
+
+See doc/readme-qt.rst for instructions on building heapcoin-qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of HeapCoin.
+
+See doc/build-*.txt for instructions on building heapcoin,
+the intended-for-services, no-graphical-interface, reference
+implementation of HeapCoin.
